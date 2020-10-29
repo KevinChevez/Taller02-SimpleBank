@@ -1,1 +1,23 @@
-Fecha: java.util.GregorianCalendar[time=1603995168936,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2020,MONTH=9,WEEK_OF_YEAR=44,WEEK_OF_MONTH=5,DAY_OF_MONTH=29,DAY_OF_YEAR=303,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=5,AM_PM=1,HOUR=1,HOUR_OF_DAY=13,MINUTE=12,SECOND=48,MILLISECOND=936,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo de transsación: Tiempo: Thu Oct 29 13:56:05 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 13:57:00 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 13:57:00 COT 2020
+Tipo de transsación: 2Tiempo: Thu Oct 29 14:28:47 COT 2020
+Tipo de transsación: 100Tiempo: Thu Oct 29 14:28:47 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 14:44:37 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 14:45:59 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 14:51:35 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 14:52:44 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 14:52:44 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 14:57:48 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 14:59:31 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 15:03:11 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 15:04:15 COT 2020
+Tipo de transsación: Tiempo: Thu Oct 29 15:09:37 COT 2020
+Tipo de transsación: call(Bank.moneyMakeTransaction())Tiempo: Thu Oct 29 15:23:17 COT 2020
+Tipo de acción: Realizó una transacción de dinero--- Tiempo ejecutado: Thu Oct 29 15:25:54 COT 2020
+Tipo de acción: Realizó una transacción de dinero--- Tiempo ejecutado: Thu Oct 29 15:25:54 COT 2020
+Tipo de acción: Realizó una transacción de dinero--- Tiempo ejecutado: Thu Oct 29 15:25:54 COT 2020
+Tipo de acción: Realizó un retiro de dinero--- Tiempo ejecutado: Thu Oct 29 15:25:54 COT 2020
+Tipo de acción: Realizó un retiro de dinero--- Tiempo ejecutado: Thu Oct 29 15:25:54 COT 2020
+Tipo de acción: Realizó una transacción de dinero --- Tiempo ejecutado: Thu Oct 29 15:41:23 COT 2020
+Tipo de acción: Realizó un retiro de dinero --- Tiempo ejecutado: Thu Oct 29 15:41:23 COT 2020
